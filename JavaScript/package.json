@@ -1,0 +1,13 @@
+{
+  "name": "imaginecup",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "dev": "node script.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "openai": "^4.26.0"
+  }
+}
